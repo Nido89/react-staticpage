@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet');
+
+.mainpage{
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+    font-family: 'Concert One', cursive;
+ 
+}
+.mainpage h1{
+    margin: 0;
+    padding: 20px 0;
+    text-align:center;
+ 
+}
+.avatarstyle img{
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 0;
+ 
+}
